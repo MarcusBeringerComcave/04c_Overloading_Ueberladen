@@ -2,16 +2,16 @@ package com.cc.java;
 
 public class TestOverloading {
 	
-	// Gleiche Signatur 1	
+	Gleiche Signatur 1	
 
 	
-	// public void sayHello() {
-	// 	System.out.println("Hello");
-	// }
+	public void sayHello() {
+		System.out.println("Hello");
+	}
 	
-	// public void sayHello() {
-	// 	System.out.println("Hello");
-	// }
+	public void sayHello() {
+		System.out.println("Hello");
+	}
 
 	
 		 
